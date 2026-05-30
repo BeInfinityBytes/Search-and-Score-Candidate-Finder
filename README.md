@@ -62,4 +62,4 @@ Requirement: “Customer Success Manager, 3+ years, fintech / financial services
 20. Farhan Kulkarni — 60 — title matches; 5.0 years experience
 
 ## Improvement With More Time
-Add embeddings-based semantic retrieval before LLM scoring to improve recall and reduce LLM calls.
+Embeddings-based semantic retrieval before LLM scoring to improve recall and reduce LLM calls I will implement this as I will get time to implement.
